@@ -1,7 +1,7 @@
 # Asteroid Game
 A 2D Java game that is a basic asteroid shooter.
 ## How to Play
-Run TopDownGame.java, which is contained inside `src/`. Controls are W,A,S,D and spacebar. A and D to turn left and right. W to move forward, S to move backward. Pressing the spacebar will shoot a projectile. Your goal is to get the highest score that you can.
+Run `TopDownGame.java`, which is contained inside `src/`. Controls are W,A,S,D and spacebar. A and D to turn left and right. W to move forward, S to move backward. Pressing the spacebar will shoot a projectile. Your goal is to get the highest score that you can.
 ## Rules
 As you progress further and further, enemies will start to appear faster and faster. There will also be new types of enemies the further you progress. You have three lives before you lose the game. Taking damage provides you a brief window of invulnerability, denoted by your player turning yellow.
 
